@@ -30,16 +30,16 @@ import numpy as np
 ########################################################################################################
 
 # Load Categories
-with open("./categories.yaml") as f_yaml:
+with open("./data/categories.yaml") as f_yaml:
     cat_map = load(f_yaml, Loader=Loader)
 
 cat_set = []
 for cat in cat_map:
     cat_set.extend(cat_map[cat])
-
 cat_set = set(cat_set)
+
 # Load DataFrame
-df = pd.read_csv("table.tsv", sep="\t")
+df = pd.read_csv("data/table.tsv", sep="\t")
 
 ph_data = dict()
 for _, r in df.iterrows():
@@ -65,5 +65,5 @@ for _, r in df.iterrows():
     ph_data[ph] = {"Validate": validate, "Undefined": undefined}
 
 
-with open("list_ph.yaml", "w") as f_yaml:
+with open("data/list_ph.yaml", "w") as f_yaml:
     dump(ph_data, f_yaml, Dumper=Dumper)

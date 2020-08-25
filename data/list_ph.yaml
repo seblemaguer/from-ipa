@@ -1,0 +1,1212 @@
+a:
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Low
+  - Voice
+b:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Labial
+  - Voice
+c:
+  Undefined:
+  - Round
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Palatal
+  - High
+  - Anterior
+d:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Alveolar
+  - Anterior
+  - Voice
+e:
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - Mid
+  - Tense
+  - ATR
+  - Voice
+f:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Labiodental
+h:
+  Undefined: []
+  Validate: []
+i:
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - High
+  - Tense
+  - ATR
+  - Voice
+j:
+  Undefined:
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Semivowel
+  - Palatal
+  - High
+  - Voice
+k:
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Velar
+  - Back
+  - High
+l:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Lateral
+  - Liquid
+  - Alveolar
+  - Anterior
+  - Voice
+m:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Occlusive
+  - Nasal
+  - Labial
+  - Voice
+n:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Occlusive
+  - Nasal
+  - Alveolar
+  - Anterior
+  - Voice
+o:
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - Mid
+  - Round
+  - Tense
+  - ATR
+  - Voice
+p:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Labial
+q:
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Uvular
+  - Back
+r:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Vibrant
+  - Trill
+  - Liquid
+  - Rhotic
+  - Alveolar
+  - Anterior
+  - Voice
+s:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Sibilant
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Alveolar
+  - Anterior
+t:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Alveolar
+  - Anterior
+u:
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - High
+  - Round
+  - Tense
+  - ATR
+  - Voice
+v:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Labiodental
+  - Voice
+w:
+  Undefined:
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Semivowel
+  - Labial
+  - Velar
+  - Back
+  - High
+  - Round
+  - Voice
+x:
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Velar
+  - Back
+  - High
+y:
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - High
+  - Round
+  - Tense
+  - ATR
+  - Voice
+z:
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Sibilant
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Alveolar
+  - Anterior
+  - Voice
+"\xE6":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - Low
+  - Tense
+  - Voice
+"\xE7":
+  Undefined:
+  - Round
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Palatal
+  - High
+  - Distributed
+"\xF0":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Dental
+  - Anterior
+  - Voice
+"\xF8":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - Mid
+  - Round
+  - Tense
+  - ATR
+  - Voice
+"\u0127":
+  Undefined: []
+  Validate: []
+"\u014B":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Occlusive
+  - Nasal
+  - Velar
+  - Back
+  - High
+  - Voice
+"\u0153":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - High
+  - Round
+  - Voice
+"\u0221":
+  Undefined: []
+  Validate: []
+"\u0234":
+  Undefined: []
+  Validate: []
+"\u0235":
+  Undefined: []
+  Validate: []
+"\u0236":
+  Undefined: []
+  Validate: []
+"\u0250":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Low
+  - Round
+  - Tense
+  - Voice
+"\u0251":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - Low
+  - ATR
+  - Voice
+"\u0252":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - Low
+  - Round
+  - ATR
+  - Voice
+"\u0253":
+  Undefined: []
+  Validate: []
+"\u0254":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - Mid
+  - Round
+  - Voice
+"\u0255":
+  Undefined: []
+  Validate: []
+"\u0256":
+  Undefined: []
+  Validate: []
+"\u0257":
+  Undefined: []
+  Validate: []
+"\u0258":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Mid
+  - Tense
+  - ATR
+  - Voice
+"\u0259":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Mid
+  - Round
+  - Tense
+  - Voice
+"\u025B":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - High
+  - Voice
+"\u025C":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Mid
+  - ATR
+  - Voice
+"\u025E":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Mid
+  - Round
+  - ATR
+  - Voice
+"\u025F":
+  Undefined:
+  - Round
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Palatal
+  - High
+  - Anterior
+  - Voice
+"\u0260":
+  Undefined: []
+  Validate: []
+"\u0261":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Velar
+  - Back
+  - High
+  - Voice
+"\u0262":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Occlusive
+  - Plosive
+  - Obstruent
+  - Uvular
+  - Back
+  - Voice
+"\u0263":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Velar
+  - Back
+  - High
+  - Voice
+"\u0264":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - Mid
+  - Tense
+  - ATR
+  - Voice
+"\u0265":
+  Undefined:
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Semivowel
+  - Labial
+  - Palatal
+  - High
+  - Round
+  - Voice
+"\u0266":
+  Undefined: []
+  Validate: []
+"\u0267":
+  Undefined: []
+  Validate: []
+"\u0268":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - High
+  - Tense
+  - ATR
+  - Voice
+"\u026A":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - High
+  - Voice
+"\u026C":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Lateral
+  - Liquid
+  - Alveolar
+  - Anterior
+  - SG
+"\u026E":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Lateral
+  - Liquid
+  - Alveolar
+  - Anterior
+  - Voice
+"\u026F":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - High
+  - Tense
+  - Voice
+"\u0270":
+  Undefined:
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Semivowel
+  - Velar
+  - Back
+  - High
+  - Voice
+"\u0271":
+  Undefined: []
+  Validate: []
+"\u0272":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Occlusive
+  - Nasal
+  - Palatal
+  - High
+  - Voice
+"\u0273":
+  Undefined:
+  - Mid
+  - Round
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Occlusive
+  - Nasal
+  - Retroflex
+  - Voice
+"\u0274":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Occlusive
+  - Nasal
+  - Uvular
+  - Back
+  - Voice
+"\u0275":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Mid
+  - Round
+  - Tense
+  - ATR
+  - Voice
+"\u0276":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - Low
+  - Round
+  - Voice
+"\u0278":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Labial
+"\u0279":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Liquid
+  - Rhotic
+  - Alveolar
+  - Anterior
+  - Voice
+"\u027B":
+  Undefined: []
+  Validate: []
+"\u027D":
+  Undefined: []
+  Validate: []
+"\u027E":
+  Undefined: []
+  Validate: []
+"\u0280":
+  Undefined:
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Vibrant
+  - Trill
+  - Liquid
+  - Rhotic
+  - Uvular
+  - Back
+  - Round
+  - Voice
+"\u0281":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Liquid
+  - Rhotic
+  - Uvular
+  - Back
+  - Voice
+"\u0282":
+  Undefined: []
+  Validate: []
+"\u0283":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Sibilant
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Postalveolar
+  - Distributed
+"\u0284":
+  Undefined: []
+  Validate: []
+"\u0288":
+  Undefined: []
+  Validate: []
+"\u0289":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Central
+  - High
+  - Round
+  - Tense
+  - ATR
+  - Voice
+"\u028A":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - High
+  - Round
+  - ATR
+  - Voice
+"\u028B":
+  Undefined: []
+  Validate: []
+"\u028C":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Back
+  - Mid
+  - Voice
+"\u028D":
+  Undefined:
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Semivowel
+  - Labial
+  - Velar
+  - Back
+  - High
+  - Round
+  - Voice
+"\u028E":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Sonorant
+  - Continuant
+  - Vocoid
+  - Approximant
+  - Lateral
+  - Liquid
+  - Palatal
+  - High
+  - Voice
+"\u028F":
+  Undefined:
+  - Anterior
+  - Distributed
+  Validate:
+  - Sonorant
+  - Syllabic
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Front
+  - High
+  - Round
+  - Voice
+"\u0290":
+  Undefined: []
+  Validate: []
+"\u0291":
+  Undefined: []
+  Validate: []
+"\u0292":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Sibilant
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Postalveolar
+  - Distributed
+  - Voice
+"\u0294":
+  Undefined: []
+  Validate: []
+"\u0295":
+  Undefined: []
+  Validate: []
+"\u0299":
+  Undefined: []
+  Validate: []
+"\u029B":
+  Undefined: []
+  Validate: []
+"\u029C":
+  Undefined: []
+  Validate: []
+"\u029D":
+  Undefined:
+  - Round
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Palatal
+  - High
+  - Distributed
+  - Voice
+"\u029F":
+  Undefined: []
+  Validate: []
+"\u02A1":
+  Undefined: []
+  Validate: []
+"\u02A2":
+  Undefined: []
+  Validate: []
+"\u03B2":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Anterior
+  - Distributed
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Labial
+  - Voice
+"\u03B8":
+  Undefined:
+  - Back
+  - High
+  - Mid
+  - Low
+  - Round
+  - Tense
+  - ATR
+  Validate:
+  - Consonantal
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Dental
+  - Anterior
+"\u03C7":
+  Undefined:
+  - Round
+  - Anterior
+  - Distributed
+  - ATR
+  Validate:
+  - Consonantal
+  - Strident
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Uvular
+  - Back
+"\u2C71":
+  Undefined: []
+  Validate: []
+"\uA78E":
+  Undefined: []
+  Validate: []

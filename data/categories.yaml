@@ -1,0 +1,64 @@
+Class:
+  - Consonantal
+  - Sonorant
+  - Syllabic
+
+Manner:
+  - Occlusive
+  - Nasal
+  - Plosive
+  - Affricate
+  - Strident
+  - Sibilant
+  - Obstruent
+  - Fricative
+  - Continuant
+  - Vocoid
+  - Vowel
+  - Approximant
+  - Semivowel
+  - Vibrant
+  - Trill
+  - Tap
+  - Lateral
+  - Liquid
+  - Rhotic
+
+Place:
+  - Labial
+  - Labiodental
+  - Dental
+  - Alveolar
+  - Retroflex
+  - Postalveolar
+  - Palatal
+  - Velar
+  - Uvular
+  - Pharyngeal
+  - Glottal
+
+Vowel:
+  - Front
+  - Central
+  - Back
+  - High
+  - Mid
+  - Low
+
+Vowel/Labial Features:
+  - Round
+
+Coronal Features:
+  - Anterior
+  - Distributed
+
+Vowel/Dorsal Features:
+  - Tense
+
+Pharyngeal:
+  - ATR # FIXME: What Is ATR?
+
+Laryngeal:
+  - Voice
+  - SG
+  - CG

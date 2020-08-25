@@ -23,20 +23,36 @@ try:
 except ImportError:
     from yaml import Loader, Dumper
 
+# Data frame
+import pandas as pd
 
 # Load phonetic list
-with open("list_ph.yaml") as f_yaml:
+with open("data/list_ph.yaml") as f_yaml:
     ph = load(f_yaml, Loader=Loader)
 
 # Load Categories
-with open("./categories.yaml") as f_yaml:
+with open("data/categories.yaml") as f_yaml:
     cat_map = load(f_yaml, Loader=Loader)
 
+# Generate category lists
 cat_list = ["Phoneme"]
 for cat in cat_map:
     cat_list.extend(cat_map[cat])
 
-nb_cats = len(cat_list) - 1
-print("\t".join(cat_list))
+# Generate DataFrame
+matrix = []
 for p in ph:
-    print("%s%s" % (p, "\t"*nb_cats))
+    tmp_list = [p]
+    for cat in cat_list[1:]:
+        if cat in ph[p]["Undefined"]:
+            tmp_list.append("0")
+        elif cat in ph[p]["Validate"]:
+            tmp_list.append("+")
+        else:
+            tmp_list.append("")
+
+    matrix.append(tmp_list)
+df = pd.DataFrame(matrix, columns=cat_list)
+
+# Save the TSV file
+df.to_csv("data/table.tsv", index=False, sep="\t")

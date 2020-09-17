@@ -1,0 +1,11 @@
+̩ :
+  Validate:
+    - Syllabic
+
+̃ :
+  Validate:
+    - Nasal
+
+˞ :
+  Validate:
+    - Rhotic

@@ -1,0 +1,7 @@
+Prefix	Left	Right
+LL		^
+L	^	-
+C	-	+
+N	+	=
+NN	=	@
+C-Syl	|	/C:
